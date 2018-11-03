@@ -10,7 +10,7 @@ mkdir -p repo/rhel6/{i386,x86_64}
 luego inicializamos los repositorios
 
 ```bash
-createrepo repo/thel6/i386
+createrepo repo/rhel6/i386
 createrepo repo/rhel6/x86_64
 ```
 
