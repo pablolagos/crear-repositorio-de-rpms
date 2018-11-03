@@ -1,4 +1,4 @@
-# crear-repositorio-de-rpms
+# Crear repositorio de rpm para YUM
 Como crear un servidor repositorio de rpms
 
 Primero creamos la estructura:
